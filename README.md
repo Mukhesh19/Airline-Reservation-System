@@ -21,7 +21,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
 
 ## Contributions Welcome
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=flat&label=Issues&maxAge=2592000)]([https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App](https://github.com/Mukhesh19/Airline-Reservation-System/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/Mukhesh19/Airline-Reservation-System/issues)
 
 If you find any bugs, have suggestions, or face issues:
 
